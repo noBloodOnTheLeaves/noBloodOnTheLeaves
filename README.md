@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/Sumanth-Talluri" />
+    <img src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif" />
 </p>
 
 <p align="center">
@@ -30,7 +30,8 @@
 - ⚡ Fun fact: Anatidaephobia is the fear that a duck may be watching you 🦆:
 
 <br>
-
+<br>
+<br>
 ### Languages and Tools: 
 
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -40,6 +41,8 @@
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 
 <img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<img align="left" alt="JavaScript" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 
 <img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
@@ -58,6 +61,8 @@
 
 <img align="left" alt="Flutter" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 
+<img align="left" alt="Flutter" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+
 <br>
 <br>
 <br>
@@ -68,13 +73,3 @@
   <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=noBloodOnTheLeaves&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Igor's Github Stats" width="60%">
   
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=noBloodOnTheLeaves&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
-
-### :zap: Recent Github Activity
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<br>
-
-<div align="center">
-</div><img src="https://d8fi5fnn36x3h.cloudfront.net/images/elements/footer.svg" />
