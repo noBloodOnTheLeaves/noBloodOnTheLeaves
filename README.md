@@ -27,7 +27,8 @@
 - 👯 I’m looking to collaborate with other Developers :wink:
 - 🥅 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything, I am happy to help :smile:
-- ⚡ Fun fact: Anatidaephobia is the fear that a duck may be watching you 🦆:
+- ⚡ Fun fact: Anatidaephobia is the fear that a duck may be watching you 🦆
+- 🤝 Currently working with my [❤️](https://github.com/foreverStudent001) for fun: [Clippy](https://github.com/foreverStudent001/Clippy/tree/troubleshoot-auth-panda-version) flutter app with bloc state management, firebase integration and a lot of stuff #todo
 
 <br>
 <br>
