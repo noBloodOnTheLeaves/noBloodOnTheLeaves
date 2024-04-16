@@ -17,6 +17,7 @@
 <a href="https://discordapp.com/users/fell_in_love_with_potato"><img src="https://img.shields.io/badge/Discrod-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/webforlive/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:steam.sup40@gmail.com?subject=Hola%20Sumanth"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+  <a href="https://igvportfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%2309090a.svg?&style=for-the-badge&logo=retroarch&logoColor=white" alt="Portfolio"/></a>&nbsp;
 </p>
 
 <br>
