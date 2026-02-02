@@ -1,12 +1,7 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 <p>
-  <h1 align="center"><b>Hello Stranger, I'm Igor and I'm a web developer👋</b></h1>
+  <h1 align="center"><b>Hello Stranger, I'm Igor and I'm a fullstack developer👋</b></h1>
 </p>
-
-<p>
-  <h4 align="center"><b>"If you like to code, message me, I'll be glad for new friends"</b></h4>
-</p>
-
 <p align="center">
     <img src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif" />
 </p>
